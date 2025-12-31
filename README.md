@@ -48,7 +48,7 @@ Beyond the classroom, I am deeply involved in research and development at the **
 
 <div align="center">
   <a href="https://iotvision.vn/" target="_blank">
-    <img src="images/Logo-AIoTsemiconductor.png" width="400" alt="AIoT Semiconductor Lab" style="border-radius: 8px;">
+    <img src="images/Logo-AIoTSemiconductor.png" width="400" alt="AIoT Semiconductor Lab" style="border-radius: 8px;">
   </a>
   <br>
   <sub>🌐 <i>Proudly contributing to <a href="https://iotvision.vn/" target="_blank"><b>iotvision.vn</b></a></i></sub>
