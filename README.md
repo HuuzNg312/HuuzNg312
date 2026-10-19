@@ -19,7 +19,7 @@ My primary career direction is **Design Verification**, with **RTL Design** as t
 
 | Project | What it explores | Case study |
 |---|---|---|
-| **RISC-V Controlled INT8 CNN Accelerator** | FPGA system combining an RV32I processor, custom CNN acceleration, firmware, storage, and HDMI output | **[View project →](https://huuzng312.github.io/projects/riscv-cnn-accelerator/)** |
+| **Design and Verification of a RISC V-Based CNN AI Accelerator and Linux-Based Embedded System** | FPGA system combining an RV32I processor, custom CNN acceleration, firmware, storage, and HDMI output | **[View project →](https://huuzng312.github.io/projects/riscv-cnn-accelerator/)** |
 | **Autonomous Line Following & Obstacle Avoiding Robot** | Arduino robotics with reflectance sensing, ultrasonic scanning, motor control, and finite-state behavior | **[View project →](https://huuzng312.github.io/projects/autonomous-robot/)** |
 
 ## Current Direction
