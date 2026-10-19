@@ -7,7 +7,7 @@
 **Design Verification** · **RTL Design**
 
 [![Explore Portfolio](https://img.shields.io/badge/Explore_My_Projects-0B1220?style=for-the-badge&logo=githubpages&logoColor=62D9FF)](https://huuzng312.github.io/#projects)
-[![Email](https://img.shields.io/badge/huuz.sync312%40gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=62D9FF)](mailto:huuz.sync312@gmail.com)
+[![Email](https://img.shields.io/badge/Write_to_huuz.sync312%40gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=62D9FF)](https://mail.google.com/mail/?view=cm&fs=1&to=huuz.sync312%40gmail.com&su=Portfolio%20inquiry)
 
 </div>
 
@@ -30,5 +30,5 @@ My primary career direction is **Design Verification**, with **RTL Design** as t
 ## Connect
 
 - **Portfolio:** [huuzng312.github.io](https://huuzng312.github.io)
-- **Email:** [huuz.sync312@gmail.com](mailto:huuz.sync312@gmail.com)
+- **Email:** [Write to huuz.sync312@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=huuz.sync312%40gmail.com&su=Portfolio%20inquiry)
 - **GitHub:** [@HuuzNg312](https://github.com/HuuzNg312)
