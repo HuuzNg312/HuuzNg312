@@ -2,26 +2,24 @@
 
 # Huu Nguyen Phu
 
-### Electronics & Telecommunications Undergraduate · RTL · Design Verification · FPGA · Embedded Systems
+### Electronics & Telecommunications Undergraduate · Design Verification · RTL Design
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=githubpages&logoColor=62D9FF)](https://huuzng312.github.io)
 [![Email](https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=62D9FF)](mailto:huuz.sync312@gmail.com)
 
 </div>
 
-I am an Electronics and Telecommunications undergraduate at **HCMUTE (2024-2028)**, building practical experience across digital hardware, FPGA systems, verification, and embedded software. My current work focuses on taking designs from architecture and RTL through simulation, firmware integration, place-and-route analysis, and board-level demonstration.
+I am an Electronics and Telecommunications undergraduate at **HCMUTE (2024-2028)**, focused primarily on **Design Verification** and secondarily on **RTL Design**. I use project work to practice translating specifications into testable RTL, checking behavior against golden data, debugging failures, and documenting evidence.
 
-I am working toward internship and graduate roles in **Design Verification, RTL Design, FPGA Engineering, and Embedded Systems**.
+I am working toward internship and graduate roles in **Design Verification** and **RTL Design**.
 
 ## Technical Focus
 
 | Area | Practical experience |
 |---|---|
-| **RTL & digital design** | Verilog, RV32I datapath and control, MMIO peripherals, signed fixed-point arithmetic, PE arrays, buffering, FSM-based control |
-| **Verification** | Directed Verilog testbenches, software golden-model comparison, layer-level checks, firmware/RTL co-simulation, end-to-end regression |
-| **FPGA development** | Tang Nano 20K, Gowin EDA, synthesis, place-and-route, resource analysis, timing review, board bring-up |
-| **Embedded systems** | Bare-metal C, UART, SPI/microSD, memory-mapped I/O, firmware loading, hardware-software integration |
-| **Programming & tools** | C, C++, Python, Git, ModelSim/Questa, Gowin EDA, VS Code |
+| **Design Verification** | Directed Verilog testbenches, software golden-model comparison, layer-level checks, firmware/RTL co-simulation, waveform debug, end-to-end regression |
+| **RTL Design** | Verilog, RV32I datapath and control, MMIO peripherals, signed fixed-point arithmetic, PE arrays, buffering, FSM-based control |
+| **Project platforms & tools** | ModelSim/Questa, Tang Nano 20K, Gowin EDA, bare-metal C, Python, UART, SPI/microSD, Git |
 
 ## Featured Engineering Project
 
@@ -37,21 +35,12 @@ A three-member team project integrating an **RV32I processor**, a **4×4 signed-
 
 > The repository and course report identify this as a three-person implementation. Module-level individual ownership is not claimed where the source material does not provide an auditable responsibility breakdown.
 
-[Project README](https://github.com/HuuzNg312/riscv-int8-cnn-accelerator#readme) · [Technical report](https://github.com/HuuzNg312/riscv-int8-cnn-accelerator/blob/main/Final_Project.pdf) · [Portfolio case study](https://huuzng312.github.io/#featured-project)
+[Project README](https://github.com/HuuzNg312/riscv-int8-cnn-accelerator#readme) · [Technical report](https://github.com/HuuzNg312/riscv-int8-cnn-accelerator/blob/main/Final_Project.pdf) · [Portfolio project entry](https://huuzng312.github.io/#project-01)
 
 ## Additional Work
 
 - **[Autonomous Line Following & Obstacle Avoiding Robot](https://github.com/HuuzNg312/Autonomous-Line-Following-Obstacle-Avoiding-Robot)** — Arduino-based mobile robot using reflectance and ultrasonic sensing with finite-state navigation.
 - **[ESP32 Hardware & Peripheral Exercises](https://github.com/HuuzNg312?tab=repositories)** — UART, PWM, digital input, sensors, and PCB-oriented learning projects.
-
-## Development Journey
-
-```text
-2024  Electronics & Telecommunications foundations
-2025  Embedded control, sensors, robotics, and PCB practice
-2026  RV32I SoC, INT8 accelerator RTL, verification, FPGA integration
-Next  Broader functional coverage, CDC cleanup, reusable verification environments
-```
 
 ## Engineering Approach
 
